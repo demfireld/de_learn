@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e5d41b0a3cfa5a9d",
+        "id": "d9334b925a0649c9",
         "type": "tabs",
         "children": [
           {
-            "id": "8081ee52609acabf",
+            "id": "1bf4d58980000c10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/tag_types/Элементы и атрибуты HTML5.md",
+                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/tag_types/Элементы и атрибуты HTML5.md",
+                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/tag_types/Элементы и атрибуты HTML5.md",
+                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/tag_types/Элементы и атрибуты HTML5.md"
+                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md"
               }
             }
+          },
+          {
+            "id": "9a0b914a6719e651",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,14 +157,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8081ee52609acabf",
+  "active": "1bf4d58980000c10",
   "lastOpenFiles": [
+    "HTML/2_elements_in_HTML5/content/newpage.html",
+    "HTML/2_elements_in_HTML5/content",
+    "HTML/1_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+    "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
+    "HTML/HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+    "HTML/2_elements_in_HTML5/index.html",
+    "HTML/2_elements_in_HTML5",
+    "HTML/1_HTML5_elements_and_attributes/index.html",
+    "HTML/1_HTML5_elements_and_attributes",
+    "HTML/elements_in_HTML5/index.html",
+    "HTML/elements_in_HTML5",
     "HTML/tag_types/Элементы и атрибуты HTML5.md",
+    "HTML/HTML5_elements_and_attributes/index.html",
+    "HTML/HTML5_elements_and_attributes",
     "HTML/tag_types/index.html",
-    "HTML/tag_types",
-    "HTML/types_of_tags",
-    "HTML/index.html",
-    "HTML",
     "Добро пожаловать.md"
   ]
 }
