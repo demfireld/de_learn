@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f16ab51bba2b1d5b",
+        "id": "e5d41b0a3cfa5a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "19108a36e409bd00",
+            "id": "8081ee52609acabf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "19108a36e409bd00",
+  "active": "8081ee52609acabf",
   "lastOpenFiles": [
     "Без названия.md",
     "Добро пожаловать.md"
