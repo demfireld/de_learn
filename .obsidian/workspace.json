@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
+                "file": "HTML/3_grouping_elements/Элементы группировки.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
+                "file": "HTML/3_grouping_elements/Элементы группировки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
+                "file": "HTML/3_grouping_elements/Элементы группировки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/2_elements_in_HTML5/Элементы в HTML5.md"
+                "file": "HTML/3_grouping_elements/Элементы группировки.md"
               }
             }
           },
@@ -159,21 +159,21 @@
   },
   "active": "1bf4d58980000c10",
   "lastOpenFiles": [
+    "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
+    "HTML/3_grouping_elements/Элементы группировки.md",
+    "HTML/3_grouping_elements/index.html",
+    "HTML/3_grouping_elements",
+    "Без названия",
     "HTML/2_elements_in_HTML5/content/newpage.html",
     "HTML/2_elements_in_HTML5/content",
     "HTML/1_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/2_elements_in_HTML5/index.html",
     "HTML/2_elements_in_HTML5",
     "HTML/1_HTML5_elements_and_attributes/index.html",
     "HTML/1_HTML5_elements_and_attributes",
     "HTML/elements_in_HTML5/index.html",
-    "HTML/elements_in_HTML5",
     "HTML/tag_types/Элементы и атрибуты HTML5.md",
-    "HTML/HTML5_elements_and_attributes/index.html",
-    "HTML/HTML5_elements_and_attributes",
-    "HTML/tag_types/index.html",
     "Добро пожаловать.md"
   ]
 }
