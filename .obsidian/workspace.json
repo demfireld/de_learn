@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md",
+                "file": "HTML/5_text_formating/Форматирование текста.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "302ce899d223204c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md",
+                "file": "HTML/5_text_formating/Форматирование текста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md",
+                "file": "HTML/5_text_formating/Форматирование текста.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md"
+                "file": "HTML/5_text_formating/Форматирование текста.md"
               }
             }
           },
@@ -158,8 +159,15 @@
   },
   "active": "1bf4d58980000c10",
   "lastOpenFiles": [
-    "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
+    "HTML/4_headers/Заголовки.md",
+    "HTML/5_text_formating/Форматирование текста.md",
+    "HTML/5_text_formating/index.html",
+    "HTML/5_text_formating/index.hyml",
+    "HTML/5_text_formating",
+    "HTML/4_headers/index.html",
     "HTML/3_grouping_elements/Элементы группировки.md",
+    "HTML/4_headers",
+    "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/3_grouping_elements/index.html",
     "HTML/3_grouping_elements",
     "Без названия",
@@ -167,11 +175,6 @@
     "HTML/2_elements_in_HTML5/content",
     "HTML/1_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "HTML/2_elements_in_HTML5/index.html",
-    "HTML/2_elements_in_HTML5",
-    "HTML/1_HTML5_elements_and_attributes/index.html",
-    "HTML/1_HTML5_elements_and_attributes",
-    "HTML/elements_in_HTML5/index.html",
     "HTML/tag_types/Элементы и атрибуты HTML5.md",
     "Добро пожаловать.md"
   ]
