@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6afc0b4e4cb62be9",
+        "id": "cd7f70ddad42b2d3",
         "type": "tabs",
         "children": [
           {
-            "id": "41cf987cd42b3f8a",
+            "id": "9b5e9cb7ee300746",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240903180234.png"
+                "file": "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240903180234.png",
+                "file": "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240903180234.png",
+                "file": "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240903180234.png"
+                "file": "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md"
               }
             }
           },
@@ -153,21 +155,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "41cf987cd42b3f8a",
+  "active": "9b5e9cb7ee300746",
   "lastOpenFiles": [
-    "Pasted image 20240903163433.png",
-    "Pasted image 20240903163355.png",
+    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/01. Информационные системы.md",
     "images/image.png",
+    "images/Pasted image 20240903163433.png",
+    "images/Pasted image 20240903163355.png",
+    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md",
+    "images/Pasted image 20240903180234.png",
+    "images/Pasted image 20240903170413.png",
     "images",
-    "Pasted image 20240903180234.png",
-    "Pasted image 20240903170413.png",
     "HTML/4_headers/Заголовки.md",
     "HTML/3_grouping_elements/Элементы группировки.md",
     "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/1_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/5_text_formating/Форматирование текста.md",
-    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md",
-    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/01. Информационные системы.md",
     "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС",
     "Внедрение и поддержка компьютерных систем/Введение/00. Начало.md",
     "Внедрение и поддержка компьютерных систем/Введение",
