@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md",
-                "mode": "preview",
+                "file": "HTML/06_images/Работа с изображениями.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "302ce899d223204c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md",
+                "file": "HTML/06_images/Работа с изображениями.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md",
+                "file": "HTML/06_images/Работа с изображениями.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/3_grouping_elements/Элементы группировки.md"
+                "file": "HTML/06_images/Работа с изображениями.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,8 +157,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9b5e9cb7ee300746",
+  "active": "c32d5358453d3e57",
   "lastOpenFiles": [
+    "HTML/06_images/index.html",
+    "HTML/04_headers/Заголовки.md",
+    "HTML/06_images/Работа с изображениями.md",
+    "HTML/06_images",
+    "HTML/5_text_formating/Форматирование текста.md",
+    "HTML/05_text_formating/Форматирование текста.md",
+    "HTML/05_text_formating/index.html",
+    "HTML/05_text_formating",
+    "HTML/04_headers/index.html",
+    "HTML/04_headers",
+    "HTML/03_grouping_elements/Элементы группировки.md",
+    "HTML/03_grouping_elements/index.html",
+    "HTML/03_grouping_elements",
+    "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+    "HTML/01_HTML5_elements_and_attributes/index.html",
+    "HTML/01_HTML5_elements_and_attributes",
+    "HTML/6_images",
+    "HTML/4_headers/Заголовки.md",
+    "HTML/3_grouping_elements/Элементы группировки.md",
     "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/1_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md",
@@ -169,19 +189,6 @@
     "images/Pasted image 20240903163355.png",
     "images/Pasted image 20240903180234.png",
     "images/Pasted image 20240903170413.png",
-    "images",
-    "HTML/4_headers/Заголовки.md",
-    "HTML/3_grouping_elements/Элементы группировки.md",
-    "HTML/5_text_formating/Форматирование текста.md",
-    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС",
-    "Внедрение и поддержка компьютерных систем/Введение",
-    "Внедрение и поддержка компьютерных систем",
-    "HTML/5_text_formating/index.html",
-    "HTML/5_text_formating/index.hyml",
-    "HTML/5_text_formating",
-    "HTML/4_headers/index.html",
-    "HTML/4_headers",
-    "HTML/3_grouping_elements/index.html",
     "HTML/HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/tag_types/Элементы и атрибуты HTML5.md",
     "Добро пожаловать.md"
