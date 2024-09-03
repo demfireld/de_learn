@@ -138,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +156,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9b5e9cb7ee300746",
+  "active": "664214bcbb1a0b21",
   "lastOpenFiles": [
     "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/01. Информационные системы.md",
     "images/image.png",
