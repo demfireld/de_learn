@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/06_images/Работа с изображениями.md",
+                "file": "HTML/07_lists/Списки.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "302ce899d223204c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/06_images/Работа с изображениями.md",
+                "file": "HTML/07_lists/Списки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/06_images/Работа с изображениями.md",
+                "file": "HTML/07_lists/Списки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/06_images/Работа с изображениями.md"
+                "file": "HTML/07_lists/Списки.md"
               }
             }
           },
@@ -157,11 +156,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c32d5358453d3e57",
+  "active": "9b5e9cb7ee300746",
   "lastOpenFiles": [
+    "HTML/06_images/Работа с изображениями.md",
+    "HTML/07_lists/Списки.md",
+    "HTML/07_lists/index.html",
+    "HTML/07_lists",
+    "HTML/06_images/image.png",
     "HTML/06_images/index.html",
     "HTML/04_headers/Заголовки.md",
-    "HTML/06_images/Работа с изображениями.md",
     "HTML/06_images",
     "HTML/5_text_formating/Форматирование текста.md",
     "HTML/05_text_formating/Форматирование текста.md",
@@ -173,9 +176,6 @@
     "HTML/03_grouping_elements/index.html",
     "HTML/03_grouping_elements",
     "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "HTML/01_HTML5_elements_and_attributes/index.html",
-    "HTML/01_HTML5_elements_and_attributes",
-    "HTML/6_images",
     "HTML/4_headers/Заголовки.md",
     "HTML/3_grouping_elements/Элементы группировки.md",
     "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
