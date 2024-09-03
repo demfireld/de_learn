@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c32d5358453d3e57",
+  "active": "1bf4d58980000c10",
   "lastOpenFiles": [
+    "Pasted image 20240903163355.png",
     "Внедрение и поддержка компьютерных систем/Введение/00. Начало.md",
     "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/Информационные системы.md",
     "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС",
