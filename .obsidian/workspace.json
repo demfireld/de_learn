@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/09_definition_list/Список определений.md",
+                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "302ce899d223204c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/09_definition_list/Список определений.md",
+                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/09_definition_list/Список определений.md",
+                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/09_definition_list/Список определений.md"
+                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +157,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b5e9cb7ee300746",
+  "active": "c32d5358453d3e57",
   "lastOpenFiles": [
-    "HTML/08_details/Элемент details.md",
     "HTML/09_definition_list/Список определений.md",
+    "HTML/08_details/Элемент details.md",
     "HTML/09_definition_list/index.html",
     "HTML/09_definition_list",
     "HTML/07_lists/Списки.md",
