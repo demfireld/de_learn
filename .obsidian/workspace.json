@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+                "file": "HTML/03_grouping_elements/Элементы группировки.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+                "file": "HTML/03_grouping_elements/Элементы группировки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+                "file": "HTML/03_grouping_elements/Элементы группировки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md"
+                "file": "HTML/03_grouping_elements/Элементы группировки.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "9b5e9cb7ee300746",
   "lastOpenFiles": [
+    "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
+    "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/02_elements_in_HTML56/Элементы в HTML5.md",
     "HTML/02_elements_in_HTML5/content/newpage.html",
-    "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/02_elements_in_HTML5/index.html",
     "HTML/02_elements_in_HTML5/content",
     "HTML/02_elements_in_HTML5",
-    "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/09_definition_list/Список определений.md",
     "HTML/08_details/Элемент details.md",
     "HTML/09_definition_list/index.html",
