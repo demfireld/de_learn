@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+                "file": "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+                "file": "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+                "file": "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md"
+                "file": "HTML/02_elements_in_HTML5/Элементы в HTML5.md"
               }
             }
           },
@@ -157,10 +157,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b5e9cb7ee300746",
+  "active": "c32d5358453d3e57",
   "lastOpenFiles": [
-    "HTML/04_headers/Заголовки.md",
     "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+    "HTML/04_headers/Заголовки.md",
     "HTML/03_grouping_elements/Элементы группировки.md",
     "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/02_elements_in_HTML56/Элементы в HTML5.md",
