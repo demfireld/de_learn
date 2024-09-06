@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/05_text_formating/Форматирование текста.md",
+                "file": "HTML/10_tables/Таблицы.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "302ce899d223204c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/05_text_formating/Форматирование текста.md",
+                "file": "HTML/10_tables/Таблицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/05_text_formating/Форматирование текста.md",
+                "file": "HTML/10_tables/Таблицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/05_text_formating/Форматирование текста.md"
+                "file": "HTML/10_tables/Таблицы.md"
               }
             }
           },
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +155,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c32d5358453d3e57",
+  "active": "9a0b914a6719e651",
   "lastOpenFiles": [
-    "HTML/04_headers/Заголовки.md",
+    "HTML/09_definition_list/Список определений.md",
+    "HTML/10_tables/Таблицы.md",
+    "HTML/10_tables",
     "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+    "HTML/05_text_formating/Форматирование текста.md",
+    "HTML/04_headers/Заголовки.md",
     "HTML/03_grouping_elements/Элементы группировки.md",
     "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/02_elements_in_HTML56/Элементы в HTML5.md",
@@ -168,7 +170,6 @@
     "HTML/02_elements_in_HTML5/index.html",
     "HTML/02_elements_in_HTML5/content",
     "HTML/02_elements_in_HTML5",
-    "HTML/09_definition_list/Список определений.md",
     "HTML/08_details/Элемент details.md",
     "HTML/09_definition_list/index.html",
     "HTML/09_definition_list",
@@ -176,10 +177,8 @@
     "HTML/08_details/index.html",
     "HTML/08_details",
     "HTML/06_images/Работа с изображениями.md",
-    "HTML/05_text_formating/Форматирование текста.md",
     "HTML/07_lists/image.png",
     "HTML/07_lists/index.html",
-    "HTML/07_lists",
     "HTML/06_images/image.png",
     "HTML/5_text_formating/Форматирование текста.md",
     "HTML/4_headers/Заголовки.md",
