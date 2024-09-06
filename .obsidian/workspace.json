@@ -155,9 +155,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a0b914a6719e651",
+  "active": "9b5e9cb7ee300746",
   "lastOpenFiles": [
+    "HTML/10_tables/index.html",
     "HTML/09_definition_list/Список определений.md",
+    "HTML/07_lists/Списки.md",
+    "HTML/08_details/Элемент details.md",
     "HTML/10_tables/Таблицы.md",
     "HTML/10_tables",
     "HTML/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
@@ -170,10 +173,8 @@
     "HTML/02_elements_in_HTML5/index.html",
     "HTML/02_elements_in_HTML5/content",
     "HTML/02_elements_in_HTML5",
-    "HTML/08_details/Элемент details.md",
     "HTML/09_definition_list/index.html",
     "HTML/09_definition_list",
-    "HTML/07_lists/Списки.md",
     "HTML/08_details/index.html",
     "HTML/08_details",
     "HTML/06_images/Работа с изображениями.md",
