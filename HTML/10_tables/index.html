@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Таблицы</title>
+    <style>
+        td {
+            width: 60px;
+            height: 60px;
+            border: solid 1px silver;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <table>
@@ -60,6 +68,22 @@
                 <th colspan="3">Информация по состоянию на 17 марта</th>
             </tr>
         </tfoot>
+    </table>
+
+    <table>
+        <tr>
+            <td rowspan="2" style="background-color: green;">1</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td colspan="2" style="background-color: red;">7</td>
+        </tr>
     </table>
 </body>
 </html>
