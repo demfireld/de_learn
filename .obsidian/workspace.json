@@ -158,6 +158,13 @@
   },
   "active": "cdda0100056aeede",
   "lastOpenFiles": [
+    "PHP/iisstart.png",
+    "PHP/iisstart.htm",
+    "PHP",
+    "wwwroot/iisstart.png",
+    "wwwroot/iisstart.htm",
+    "wwwroot",
+    "PHP/index.php",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/03_Работа_с_формами/01_forms",
     "HTML/03_Работа_с_формами",
@@ -168,13 +175,8 @@
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/Элементы figure и figcaption.md",
-    "HTML/02_Элементы_в_HTML5/11_figure_figcaption/index.html",
-    "HTML/02_Элементы_в_HTML5/11_figure_figcaption",
     "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
-    "HTML/02_Элементы_в_HTML5/10_anchor/index.html",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
-    "HTML/02_Элементы_в_HTML5/10_anchor/content.html",
-    "HTML/02_Элементы_в_HTML5/10_anchor",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
     "HTML/02_Элементы_в_HTML5/07_details/Элемент details.md",
@@ -201,8 +203,6 @@
     "HTML/02_Элементы_в_HTML5/05_text_formating/Форматирование текста.md",
     "HTML/02_Элементы_в_HTML5/03_grouping_elements/Элементы группировки.md",
     "HTML/02_Элементы_в_HTML5/02_elements_in_HTML5/Элементы в HTML5.md",
-    "HTML/01_Введение_в_HTML5/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png",
-    "HTML/Элементы_в_HTML5/11_anchor/image.png"
+    "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png"
   ]
 }
