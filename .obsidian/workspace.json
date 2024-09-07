@@ -4,11 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "c8251e98dd5cd1b7",
+        "id": "4a22e3e55c23c977",
         "type": "tabs",
         "children": [
           {
-            "id": "cdda0100056aeede",
+            "id": "b5f336da09d8dd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bce255d8bd5706e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e67dc392ea6a220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e137b78822dda656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51b1148f51aca772",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -156,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdda0100056aeede",
+  "active": "51b1148f51aca772",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/index.html",
     "PHP/01_Введение_d_PHP/display.php",
     "PHP/01_Введение_d_PHP/index.html",
     "PHP/01_Введение_d_PHP/01_First_PHP_site.md",
@@ -172,7 +222,6 @@
     "wwwroot",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/03_Работа_с_формами/01_forms",
-    "HTML/03_Работа_с_формами",
     "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
