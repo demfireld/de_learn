@@ -7,9 +7,20 @@
 </head>
 <body>
     <h1>Формы</h1>
-    <form method="post" autocomplete="off" action="http://localhost/PHP/login.php">
-        <input type="text" autocomplete="on" name="login" />
+    <form method="post" action="http://localhost/PHP/login.php">
+        <input autocomplete="off" name="login" />
         <input type="submit" value="Войти" />
+    </form>
+    <br />
+    <br />
+    <form method="post" action="http://localhost/PHP/display.php">
+        <label>Name: </label>
+        <input autocomplete="on" type="text" name="firstname" />
+        <br /><br />
+        <label>Surname: </label>
+        <input autocomplete="on" type="text" name="surname" />
+        <br /><br />
+        <input type="submit" value="Отправить">
     </form>
 </body>
 </html>
