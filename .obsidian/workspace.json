@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/02_Основы PHP/Основы синтаксиса.md",
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/02_Основы PHP/Основы синтаксиса.md",
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/02_Основы PHP/Основы синтаксиса.md",
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/02_Основы PHP/Основы синтаксиса.md"
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,24 +156,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a0b914a6719e651",
+  "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/01_forms/Формы.md",
+    "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/hello.php",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
-    "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/03_buttons/index.html",
     "HTML/03_Работа_с_формами/03_buttons",
     "HTML/03_Работа_с_формами/02_form_elements/index.html",
-    "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/03_Работа_с_формами/02_form_elements",
     "PHP/01_Введение_d_PHP/display.php",
     "PHP/01_Введение_d_PHP/index.html",
     "PHP/01_Введение_d_PHP/01_First_PHP_site.md",
     "PHP/login.php",
     "PHP/01_Введение_d_PHP",
-    "PHP",
     "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
