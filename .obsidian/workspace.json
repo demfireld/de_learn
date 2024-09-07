@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md"
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/03_buttons/image.png",
+    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/hello.php",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
     "PHP/02_Основы PHP",
-    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/03_buttons/index.html",
     "HTML/03_Работа_с_формами/03_buttons",
     "HTML/03_Работа_с_формами/02_form_elements/index.html",
