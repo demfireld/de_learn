@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
+                "file": "HTML/03_Работа_с_формами/04_text_field/Текстовые поля.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
+                "file": "HTML/03_Работа_с_формами/04_text_field/Текстовые поля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
+                "file": "HTML/03_Работа_с_формами/04_text_field/Текстовые поля.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md"
+                "file": "HTML/03_Работа_с_формами/04_text_field/Текстовые поля.md"
               }
             }
           },
@@ -158,12 +158,16 @@
   },
   "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/04_text_field/index.html",
+    "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
+    "HTML/03_Работа_с_формами/04_text_field/Текстовые поля.md",
+    "HTML/03_Работа_с_формами/04_text_field",
+    "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/hello.php",
-    "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
     "PHP/02_Основы PHP",
     "HTML/03_Работа_с_формами/03_buttons/index.html",
     "HTML/03_Работа_с_формами/03_buttons",
@@ -173,7 +177,6 @@
     "PHP/01_Введение_d_PHP/index.html",
     "PHP/01_Введение_d_PHP/01_First_PHP_site.md",
     "PHP/login.php",
-    "PHP/01_Введение_d_PHP",
     "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
@@ -198,11 +201,8 @@
     "HTML/02_Элементы_в_HTML5/11_anchor/image.png",
     "HTML/02_Элементы_в_HTML5/09_definition_list/Список определений.md",
     "HTML/02_Элементы_в_HTML5/08_details/Элемент details.md",
-    "HTML/02_Элементы_в_HTML5/07_lists/Списки.md",
     "HTML/02_Элементы_в_HTML5/07_lists/image.png",
-    "HTML/02_Элементы_в_HTML5/06_images/Работа с изображениями.md",
     "HTML/02_Элементы_в_HTML5/06_images/image.png",
-    "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png",
-    "HTML/Элементы_в_HTML5/11_anchor/image.png"
+    "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png"
   ]
 }
