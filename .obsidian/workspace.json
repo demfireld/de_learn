@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png"
-              }
+              "state": {}
             }
           },
           {
@@ -138,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,51 +147,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c32d5358453d3e57",
+  "active": "9a0b914a6719e651",
   "lastOpenFiles": [
-    "HTML/Элементы_в_HTML5/11_anchor/Ссылки.md",
-    "HTML/Элементы_в_HTML5/11_anchor/image.png",
-    "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
-    "HTML/Элементы_в_HTML5",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
-    "HTML/Элементы_и_атрибуты",
+    "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
+    "HTML/02_Элементы_в_HTML5/11_figure_figcaption/Элементы figure и figcaption.md",
+    "HTML/02_Элементы_в_HTML5/11_figure_figcaption/index.html",
+    "HTML/02_Элементы_в_HTML5/11_figure_figcaption",
+    "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
+    "HTML/02_Элементы_в_HTML5/10_anchor/index.html",
+    "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
+    "HTML/02_Элементы_в_HTML5/10_anchor/content.html",
+    "HTML/02_Элементы_в_HTML5/10_anchor",
+    "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+    "HTML/02_Элементы_в_HTML5/09_tables/index.html",
+    "HTML/02_Элементы_в_HTML5/09_tables",
+    "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
+    "HTML/02_Элементы_в_HTML5/08_definition_list/index.html",
+    "HTML/02_Элементы_в_HTML5/08_definition_list",
+    "HTML/02_Элементы_в_HTML5/07_details/index.html",
+    "HTML/02_Элементы_в_HTML5/07_details/Элемент details.md",
+    "HTML/02_Элементы_в_HTML5/06_lists/Списки.md",
+    "HTML/02_Элементы_в_HTML5/06_lists/image.png",
+    "HTML/02_Элементы_в_HTML5/05_images/Работа с изображениями.md",
+    "HTML/02_Элементы_в_HTML5/05_images/image.png",
+    "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
+    "HTML/02_Элементы_в_HTML5/03_headers/Заголовки.md",
+    "HTML/02_Элементы_в_HTML5/02_grouping_elements/Элементы группировки.md",
+    "HTML/02_Элементы_в_HTML5/01_elements_in_HTML5/Элементы в HTML5.md",
+    "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png",
+    "HTML/02_Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
+    "HTML/02_Элементы_в_HTML5/10_tables/Таблицы.md",
+    "HTML/02_Элементы_в_HTML5/11_anchor/Ссылки.md",
+    "HTML/02_Элементы_в_HTML5/11_anchor/image.png",
+    "HTML/02_Элементы_в_HTML5/09_definition_list/Список определений.md",
+    "HTML/02_Элементы_в_HTML5/08_details/Элемент details.md",
+    "HTML/02_Элементы_в_HTML5/07_lists/Списки.md",
+    "HTML/02_Элементы_в_HTML5/07_lists/image.png",
+    "HTML/02_Элементы_в_HTML5/06_images/Работа с изображениями.md",
+    "HTML/02_Элементы_в_HTML5/06_images/image.png",
+    "HTML/02_Элементы_в_HTML5/04_headers/Заголовки.md",
+    "HTML/02_Элементы_в_HTML5/05_text_formating/Форматирование текста.md",
+    "HTML/02_Элементы_в_HTML5/03_grouping_elements/Элементы группировки.md",
+    "HTML/02_Элементы_в_HTML5/02_elements_in_HTML5/Элементы в HTML5.md",
+    "HTML/01_Введение_в_HTML5/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
+    "HTML/01_Элементы_и_атрибуты/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png",
-    "HTML/Элементы_в_HTML5/12_figure_figcaption/index copy.html",
-    "HTML/Элементы_в_HTML5/12_figure_figcaption/index.html",
-    "HTML/12_figure_figcaption/index.ru",
-    "HTML/Элементы_в_HTML5/12_figure_figcaption",
-    "HTML/Элементы_в_HTML5/11_anchor/content.html",
-    "HTML/Элементы_в_HTML5/11_anchor/index.html",
-    "HTML/Элементы_в_HTML5/08_details/Элемент details.md",
-    "HTML/Элементы_в_HTML5/11_anchor",
-    "HTML/Элементы_в_HTML5/10_tables/Таблицы.md",
-    "HTML/Элементы_в_HTML5/05_text_formating/Форматирование текста.md",
-    "HTML/Элементы_в_HTML5/10_tables/index.html",
-    "HTML/Элементы_в_HTML5/09_definition_list/Список определений.md",
-    "HTML/Элементы_в_HTML5/07_lists/Списки.md",
-    "HTML/Элементы_и_атрибуты/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "HTML/Элементы_в_HTML5/04_headers/Заголовки.md",
-    "HTML/Элементы_в_HTML5/03_grouping_elements/Элементы группировки.md",
-    "HTML/02_elements_in_HTML56/Элементы в HTML5.md",
-    "HTML/Элементы_в_HTML5/06_images/Работа с изображениями.md",
-    "HTML/Элементы_в_HTML5/07_lists/image.png",
-    "HTML/Элементы_в_HTML5/06_images/image.png",
-    "HTML/5_text_formating/Форматирование текста.md",
-    "HTML/4_headers/Заголовки.md",
-    "HTML/3_grouping_elements/Элементы группировки.md",
-    "HTML/2_elements_in_HTML5/Элементы в HTML5.md",
-    "HTML/1_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/02. Структура ИС.md",
-    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/01. Информационные системы.md",
-    "Внедрение и поддержка компьютерных систем/Введение/Понятие ИС/03. Типы подсистем.md",
-    "Внедрение и поддержка компьютерных систем/Введение/00. Начало.md",
-    "images/image.png",
-    "images/Pasted image 20240903163433.png",
-    "images/Pasted image 20240903163355.png",
-    "images/Pasted image 20240903180234.png",
-    "images/Pasted image 20240903170413.png",
-    "HTML/HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "HTML/tag_types/Элементы и атрибуты HTML5.md",
-    "Добро пожаловать.md"
+    "HTML/Элементы_в_HTML5/11_anchor/Ссылки.md",
+    "HTML/Элементы_в_HTML5/11_anchor/image.png"
   ]
 }
