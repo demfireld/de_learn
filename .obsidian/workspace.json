@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/11_anchor/Ссылки.md",
+                "file": "HTML/12_figure_figcaption/Элементы figure и figcaption.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/11_anchor/Ссылки.md",
+                "file": "HTML/12_figure_figcaption/Элементы figure и figcaption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/11_anchor/Ссылки.md",
+                "file": "HTML/12_figure_figcaption/Элементы figure и figcaption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/11_anchor/Ссылки.md"
+                "file": "HTML/12_figure_figcaption/Элементы figure и figcaption.md"
               }
             }
           },
@@ -159,11 +159,17 @@
   },
   "active": "9b5e9cb7ee300746",
   "lastOpenFiles": [
+    "HTML/12_figure_figcaption/image.png",
+    "HTML/12_figure_figcaption/index copy.html",
+    "HTML/12_figure_figcaption/index.html",
+    "HTML/12_figure_figcaption/index.ru",
+    "HTML/11_anchor/Ссылки.md",
+    "HTML/12_figure_figcaption/Элементы figure и figcaption.md",
+    "HTML/12_figure_figcaption",
     "HTML/11_anchor/image.png",
     "HTML/11_anchor/content.html",
     "HTML/11_anchor/index.html",
     "HTML/08_details/Элемент details.md",
-    "HTML/11_anchor/Ссылки.md",
     "HTML/11_anchor",
     "HTML/10_tables/Таблицы.md",
     "HTML/05_text_formating/Форматирование текста.md",
@@ -177,10 +183,6 @@
     "HTML/02_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/02_elements_in_HTML56/Элементы в HTML5.md",
     "HTML/02_elements_in_HTML5/content/newpage.html",
-    "HTML/02_elements_in_HTML5/index.html",
-    "HTML/02_elements_in_HTML5/content",
-    "HTML/02_elements_in_HTML5",
-    "HTML/09_definition_list/index.html",
     "HTML/06_images/Работа с изображениями.md",
     "HTML/07_lists/image.png",
     "HTML/06_images/image.png",
