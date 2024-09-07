@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md"
+                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md"
               }
             }
           },
@@ -159,23 +159,23 @@
   },
   "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/01_forms/Формы.md",
+    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+    "HTML/03_Работа_с_формами/02_form_elements",
     "PHP/01_Введение_d_PHP/display.php",
     "PHP/01_Введение_d_PHP/index.html",
     "PHP/01_Введение_d_PHP/01_First_PHP_site.md",
     "PHP/login.php",
     "PHP/01_Введение_d_PHP",
     "PHP",
-    "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/03_Работа_с_формами/01_forms/index.html",
     "HTML/03_Работа_с_формами/01_forms",
     "HTML/03_Работа_с_формами",
     "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
     "HTML/02_Элементы_в_HTML5/12_frames/index.html",
-    "HTML/02_Элементы_в_HTML5/12_frames",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/Элементы figure и figcaption.md",
-    "HTML/02_Элементы_в_HTML5/11_figure_figcaption/index.html",
     "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
