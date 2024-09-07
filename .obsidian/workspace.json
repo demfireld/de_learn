@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6498c1d3cbb610",
+  "active": "9a0b914a6719e651",
   "lastOpenFiles": [
+    "PHP/02_Основы PHP/hello.php",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP",
@@ -201,7 +201,6 @@
     "HTML/02_Элементы_в_HTML5/07_lists/image.png",
     "HTML/02_Элементы_в_HTML5/06_images/Работа с изображениями.md",
     "HTML/02_Элементы_в_HTML5/06_images/image.png",
-    "HTML/02_Элементы_в_HTML5/04_headers/Заголовки.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png",
     "HTML/Элементы_в_HTML5/11_anchor/image.png"
   ]
