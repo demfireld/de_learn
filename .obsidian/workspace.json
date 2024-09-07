@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b10dea3f66d3e155",
+        "id": "c8251e98dd5cd1b7",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6498c1d3cbb610",
+            "id": "cdda0100056aeede",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md"
+              }
             }
           },
           {
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +152,19 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a0b914a6719e651",
+  "active": "cdda0100056aeede",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/01_forms/Формы.md",
+    "HTML/03_Работа_с_формами/01_forms",
+    "HTML/03_Работа_с_формами",
+    "HTML/Без названия",
+    "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
+    "HTML/02_Элементы_в_HTML5/12_frames/index.html",
+    "HTML/02_Элементы_в_HTML5/12_frames",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/Элементы figure и figcaption.md",
@@ -159,12 +176,7 @@
     "HTML/02_Элементы_в_HTML5/10_anchor/content.html",
     "HTML/02_Элементы_в_HTML5/10_anchor",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
-    "HTML/02_Элементы_в_HTML5/09_tables/index.html",
-    "HTML/02_Элементы_в_HTML5/09_tables",
     "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
-    "HTML/02_Элементы_в_HTML5/08_definition_list/index.html",
-    "HTML/02_Элементы_в_HTML5/08_definition_list",
-    "HTML/02_Элементы_в_HTML5/07_details/index.html",
     "HTML/02_Элементы_в_HTML5/07_details/Элемент details.md",
     "HTML/02_Элементы_в_HTML5/06_lists/Списки.md",
     "HTML/02_Элементы_в_HTML5/06_lists/image.png",
@@ -190,9 +202,7 @@
     "HTML/02_Элементы_в_HTML5/03_grouping_elements/Элементы группировки.md",
     "HTML/02_Элементы_в_HTML5/02_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/01_Введение_в_HTML5/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
-    "HTML/01_Элементы_и_атрибуты/01_HTML5_elements_and_attributes/Элементы и атрибуты HTML5.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png",
-    "HTML/Элементы_в_HTML5/11_anchor/Ссылки.md",
     "HTML/Элементы_в_HTML5/11_anchor/image.png"
   ]
 }
