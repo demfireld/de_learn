@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+                "file": "PHP/02_Основы PHP/Переменные.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "302ce899d223204c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+                "file": "PHP/02_Основы PHP/Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+                "file": "PHP/02_Основы PHP/Переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md"
+                "file": "PHP/02_Основы PHP/Переменные.md"
               }
             }
           },
@@ -158,8 +159,16 @@
   },
   "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
-    "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
+    "PHP/02_Основы PHP/sources/variables.php",
+    "PHP/02_Основы PHP/sources/variables",
+    "PHP/02_Основы PHP/Основы синтаксиса.md",
+    "PHP/02_Основы PHP/Переменные.md",
+    "PHP/02_Основы PHP/sources/hello.php",
+    "PHP/02_Основы PHP/sources",
+    "PHP/02_Основы PHP/Untitled/Untitled.md",
     "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+    "PHP/02_Основы PHP/Untitled",
+    "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
@@ -167,16 +176,11 @@
     "HTML/03_Работа_с_формами/04_text_fields",
     "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
-    "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/hello.php",
     "PHP/02_Основы PHP",
     "HTML/03_Работа_с_формами/03_buttons/index.html",
     "HTML/03_Работа_с_формами/03_buttons",
-    "HTML/03_Работа_с_формами/02_form_elements/index.html",
-    "HTML/03_Работа_с_формами/02_form_elements",
-    "PHP/01_Введение_d_PHP/display.php",
-    "PHP/01_Введение_d_PHP/index.html",
-    "PHP/01_Введение_d_PHP/01_First_PHP_site.md",
+    "PHP/01_Введение в PHP/01_First_PHP_site.md",
     "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
@@ -198,8 +202,6 @@
     "HTML/02_Элементы_в_HTML5/10_tables/Таблицы.md",
     "HTML/02_Элементы_в_HTML5/11_anchor/Ссылки.md",
     "HTML/02_Элементы_в_HTML5/11_anchor/image.png",
-    "HTML/02_Элементы_в_HTML5/09_definition_list/Список определений.md",
-    "HTML/02_Элементы_в_HTML5/08_details/Элемент details.md",
     "HTML/02_Элементы_в_HTML5/07_lists/image.png",
     "HTML/02_Элементы_в_HTML5/06_images/image.png",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png"
