@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md"
+                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,14 +157,14 @@
   },
   "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
-    "HTML/03_Работа_с_формами/04_text_field/Текстовые поля.md",
-    "HTML/03_Работа_с_формами/04_text_field/index.html",
+    "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
-    "HTML/03_Работа_с_формами/04_text_field",
+    "HTML/03_Работа_с_формами/04_text_fields/index.html",
+    "HTML/03_Работа_с_формами/04_text_fields",
     "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
-    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/hello.php",
     "PHP/02_Основы PHP",
