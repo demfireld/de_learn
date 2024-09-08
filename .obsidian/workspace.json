@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/02_Основы PHP/Переменные.md",
+                "file": "PHP/02_Основы PHP/Типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "302ce899d223204c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/02_Основы PHP/Переменные.md",
+                "file": "PHP/02_Основы PHP/Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/02_Основы PHP/Переменные.md",
+                "file": "PHP/02_Основы PHP/Типы данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/02_Основы PHP/Переменные.md"
+                "file": "PHP/02_Основы PHP/Типы данных.md"
               }
             }
           },
@@ -159,8 +158,9 @@
   },
   "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
-    "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/Переменные.md",
+    "PHP/02_Основы PHP/Типы данных.md",
+    "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/sources/variables.php",
     "PHP/02_Основы PHP/sources/variables",
     "PHP/02_Основы PHP/sources/hello.php",
