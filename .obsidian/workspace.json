@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b10dea3f66d3e155",
+        "id": "f1b7c902632bc9c3",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6498c1d3cbb610",
+            "id": "f71389b3fd3f07ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
+                "file": "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
+                "file": "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
+                "file": "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md"
+                "file": "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +156,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c6498c1d3cbb610",
+  "active": "f71389b3fd3f07ae",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md",
+    "HTML/03_Работа_с_формами/06_number_input_elements",
+    "HTML/03_Работа_с_формами/06_number_input_e",
+    "HTML/03_Работа_с_формами/UntitledUntitled.md",
+    "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus/index.html",
     "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
-    "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
@@ -169,16 +174,12 @@
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Пользователи/inputDataUsers.csv",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Комментарии/inputDataComments.xlsx",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Комментарии/inputDataComments.txt",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Комментарии/inputDataComments.csv",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Заявки/inputDataRequests.xlsx",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Заявки/inputDataRequests.txt",
     "PHP/02_Основы PHP/Типы данных.md",
     "PHP/02_Основы PHP/Переменные.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/02_Основы PHP/Untitled/Untitled.md",
     "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
-    "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
     "PHP/01_Введение в PHP/01_First_PHP_site.md",
     "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
