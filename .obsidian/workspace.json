@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "039c6310cf7a1c98",
+        "id": "b10dea3f66d3e155",
         "type": "tabs",
         "children": [
           {
-            "id": "435fd4517c4fd40a",
+            "id": "6c6498c1d3cbb610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md"
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md"
               }
             }
           },
@@ -146,40 +146,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c32d5358453d3e57",
+  "active": "6c6498c1d3cbb610",
   "lastOpenFiles": [
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_ КОД 09.02.07-2-2024-ПУ/Прил_3_В3_КОД 09.02.07-2-2024-ПУ.docx",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_ КОД 09.02.07-2-2024-ПУ/Прил_2_В3_КОД 09.02.07-2-2024-ПУ.docx",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_ КОД 09.02.07-2-2024-ПУ/Прил_1_В3_КОД 09.02.07-2-2024-ПУ.docx",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_ КОД 09.02.07-2-2024-ПУ",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ",
+    "HTML/03_Работа_с_формами/05_tags_and_autofocus/index.html",
+    "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+    "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
+    "HTML/03_Работа_с_формами/05_tags_and_autofocus",
+    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+    "HTML/03_Работа_с_формами/01_forms/Формы.md",
+    "Демо Экзамен/ГОСТ. 2.105 - Общие требования к оформлению.pdf",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Пользователи/inputDataUsers.xlsx",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Пользователи/inputDataUsers.txt",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Пользователи/inputDataUsers.csv",
-    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Пользователи",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Комментарии/inputDataComments.xlsx",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Комментарии/inputDataComments.txt",
+    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Комментарии/inputDataComments.csv",
+    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Заявки/inputDataRequests.xlsx",
+    "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Заявки/inputDataRequests.txt",
     "PHP/02_Основы PHP/Типы данных.md",
     "PHP/02_Основы PHP/Переменные.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
-    "PHP/01_Введение в PHP/01_First_PHP_site.md",
-    "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+    "PHP/02_Основы PHP/Untitled/Untitled.md",
+    "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
+    "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
-    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
-    "HTML/03_Работа_с_формами/01_forms/Формы.md",
-    "PHP/01_Введение_d_PHP/01_First_PHP_site.md",
-    "PHP/iisstart.png",
-    "wwwroot/iisstart.png",
+    "PHP/01_Введение в PHP/01_First_PHP_site.md",
     "HTML/02_Элементы_в_HTML5/12_frames/Фреймы.md",
     "HTML/Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
@@ -193,15 +194,14 @@
     "HTML/02_Элементы_в_HTML5/06_lists/image.png",
     "HTML/02_Элементы_в_HTML5/05_images/Работа с изображениями.md",
     "HTML/02_Элементы_в_HTML5/05_images/image.png",
-    "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "HTML/02_Элементы_в_HTML5/03_headers/Заголовки.md",
     "HTML/02_Элементы_в_HTML5/02_grouping_elements/Элементы группировки.md",
     "HTML/02_Элементы_в_HTML5/01_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/12_figure_figcaption/Элементы figure и figcaption.md",
-    "HTML/02_Элементы_в_HTML5/10_tables/Таблицы.md",
-    "HTML/02_Элементы_в_HTML5/11_anchor/Ссылки.md",
     "HTML/02_Элементы_в_HTML5/11_anchor/image.png",
-    "HTML/02_Элементы_в_HTML5/07_lists/image.png"
+    "HTML/02_Элементы_в_HTML5/07_lists/image.png",
+    "HTML/02_Элементы_в_HTML5/06_images/image.png",
+    "HTML/Элементы_в_HTML5/12_figure_figcaption/image.png"
   ]
 }
