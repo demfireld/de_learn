@@ -10,4 +10,16 @@ echo "num_10: $num_10<br />";
 echo "num_2: $num_2<br />";
 echo "num_8: $num_8<br />";
 echo "num_16: $num_16<br />";
+
+$a1 = 1.5;
+$a2 = 1.3e4;
+$a3 = 6E-8;
+echo "a1: $a1<br />";
+echo "a2: $a2<br />";
+echo "a3: $a3<br />";
+
+$foo = true;
+$boo = false;
+echo "foo: $foo<br />";
+echo "boo: $boo<br />";
 ?>
