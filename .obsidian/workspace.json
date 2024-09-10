@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md"
+                "file": "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "f71389b3fd3f07ae",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
@@ -168,7 +169,6 @@
     "HTML/03_Работа_с_формами/06_number_input_e",
     "HTML/03_Работа_с_формами/UntitledUntitled.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus/index.html",
-    "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus",
     "Демо Экзамен/ГОСТ. 2.105 - Общие требования к оформлению.pdf",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/В3_Ресурсы/B3_import_АвтоТранс/Пользователи/inputDataUsers.xlsx",
