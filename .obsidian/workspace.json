@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf6166eb55ebcde",
+        "id": "a6ae8507ac890a07",
         "type": "tabs",
         "children": [
           {
-            "id": "0aaf0522d075b9db",
+            "id": "cf08361f22303e68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md",
-                "mode": "preview",
+                "file": "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md",
+                "file": "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md",
+                "file": "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md"
+                "file": "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md"
               }
             }
           },
@@ -157,8 +157,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0aaf0522d075b9db",
+  "active": "cf08361f22303e68",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md",
+    "2024-09-11.md",
+    "Untitled.canvas",
+    "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/index.html",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input",
@@ -183,13 +187,11 @@
     "PHP/02_Основы PHP/sources/data_types.php",
     "PHP/02_Основы PHP/Переменные.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
-    "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md",
     "HTML/03_Работа_с_формами/07_checkboxes_and_switches/index.html",
     "HTML/03_Работа_с_формами/07_checkboxes_and_switches",
     "HTML/03_Работа_с_формами/07_checkboxes_a",
     "HTML/03_Работа_с_формами/06_number_input_elements/index.html",
     "HTML/03_Работа_с_формами/06_number_input_elements",
-    "HTML/03_Работа_с_формами/06_number_input_e",
     "HTML/03_Работа_с_формами/UntitledUntitled.md",
     "PHP/02_Основы PHP/Untitled/Untitled.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
@@ -200,7 +202,6 @@
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/Элементы figure и figcaption.md",
     "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
-    "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "HTML/02_Элементы_в_HTML5/06_lists/image.png",
     "HTML/02_Элементы_в_HTML5/05_images/image.png",
     "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png",

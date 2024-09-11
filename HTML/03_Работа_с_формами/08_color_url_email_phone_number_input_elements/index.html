@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Элементы для ввода цвета, url, email, телефона</title>
+</head>
+<body>
+    <div>
+        <label for="favcolor">Выберите цвет</label>
+        <input type="color" name="favcolor" id="favcolor" />
+    </div>
+    <br />
+    <div>
+        <label for="favcolor">Выберите цвет</label>
+        <input type="color" list="colors" name="favcolor" id="favcolor" />
+        <datalist id="colors">
+            <option value="#0000FF" label="Blue"></option>
+            <option value="#008000" label="Green"></option>
+            <option value="#FF0000" label="Red"></option>
+        </datalist>
+    </div>
+</body>
+</html>
