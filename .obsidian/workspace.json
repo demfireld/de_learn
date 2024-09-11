@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "302ce899d223204c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md"
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md"
               }
             }
           },
@@ -158,9 +157,9 @@
   },
   "active": "0aaf0522d075b9db",
   "lastOpenFiles": [
+    "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
     "PHP/02_Основы PHP/sources/if_else.php",
     "PHP/02_Основы PHP/Типы данных.md",
-    "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
     "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "PHP/02_Основы PHP/sources/data_types.php",
     "PHP/02_Основы PHP/Переменные.md",
@@ -181,7 +180,6 @@
     "HTML/03_Работа_с_формами/UntitledUntitled.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus/index.html",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus",
-    "Демо Экзамен/ГОСТ. 2.105 - Общие требования к оформлению.pdf",
     "PHP/02_Основы PHP/Untitled/Untitled.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
     "PHP/01_Введение в PHP/01_First_PHP_site.md",
