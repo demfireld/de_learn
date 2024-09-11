@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
-                "mode": "source",
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md"
+                "file": "HTML/03_Работа_с_формами/01_forms/Формы.md"
               }
             }
           },
@@ -158,6 +158,12 @@
   },
   "active": "0aaf0522d075b9db",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
+    "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
+    "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
+    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+    "HTML/03_Работа_с_формами/01_forms/Формы.md",
+    "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
     "HTML/02_Элементы_в_HTML5/07_details/Элемент details.md",
     "HTML/02_Элементы_в_HTML5/06_lists/Списки.md",
     "HTML/02_Элементы_в_HTML5/05_images/Работа с изображениями.md",
@@ -177,11 +183,6 @@
     "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md",
     "HTML/03_Работа_с_формами/07_checkboxes_and_switches",
     "HTML/03_Работа_с_формами/07_checkboxes_a",
-    "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
-    "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
-    "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
-    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
-    "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/03_Работа_с_формами/06_number_input_elements/index.html",
     "HTML/03_Работа_с_формами/06_number_input_elements",
     "HTML/03_Работа_с_формами/06_number_input_e",
@@ -198,7 +199,6 @@
     "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
-    "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
     "HTML/02_Элементы_в_HTML5/06_lists/image.png",
     "HTML/02_Элементы_в_HTML5/05_images/image.png",
     "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png",
