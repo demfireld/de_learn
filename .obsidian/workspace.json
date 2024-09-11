@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
+                "file": "HTML/02_Элементы_в_HTML5/01_elements_in_HTML5/Элементы в HTML5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "302ce899d223204c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
+                "file": "HTML/02_Элементы_в_HTML5/01_elements_in_HTML5/Элементы в HTML5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
+                "file": "HTML/02_Элементы_в_HTML5/01_elements_in_HTML5/Элементы в HTML5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md"
+                "file": "HTML/02_Элементы_в_HTML5/01_elements_in_HTML5/Элементы в HTML5.md"
               }
             }
           },
@@ -159,10 +158,10 @@
   },
   "active": "0aaf0522d075b9db",
   "lastOpenFiles": [
+    "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
     "PHP/02_Основы PHP/sources/if_else.php",
     "PHP/02_Основы PHP/Типы данных.md",
-    "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "PHP/02_Основы PHP/sources/data_types.php",
     "PHP/02_Основы PHP/Переменные.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
