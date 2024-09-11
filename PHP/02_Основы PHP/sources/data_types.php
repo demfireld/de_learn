@@ -22,4 +22,17 @@ $foo = true;
 $boo = false;
 echo "foo: $foo<br />";
 echo "boo: $boo<br />";
+
+$a = 10;
+$b = 5;
+$result = "$a+$b <br />";
+echo $result;
+$result = '$a+$b<br />';
+echo $result;
+
+//$text = "Модель "Apple II"";
+$text = "Модель \"Apple II\"";
+echo "$text<br />";
+$text = 'Модель "Apple II"';
+echo "$text<br />";
 ?>
