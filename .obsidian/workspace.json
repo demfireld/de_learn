@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/02_Основы PHP/Конс.md",
+                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "302ce899d223204c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/02_Основы PHP/Конс.md",
+                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/02_Основы PHP/Конс.md",
+                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/02_Основы PHP/Конс.md"
+                "file": "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md"
               }
             }
           },
@@ -157,8 +158,9 @@
   },
   "active": "0aaf0522d075b9db",
   "lastOpenFiles": [
+    "PHP/02_Основы PHP/sources/if_else.php",
     "PHP/02_Основы PHP/Типы данных.md",
-    "PHP/02_Основы PHP/Конс.md",
+    "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
     "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "PHP/02_Основы PHP/sources/data_types.php",
     "PHP/02_Основы PHP/Переменные.md",
@@ -197,7 +199,6 @@
     "HTML/02_Элементы_в_HTML5/05_images/Работа с изображениями.md",
     "HTML/02_Элементы_в_HTML5/05_images/image.png",
     "HTML/02_Элементы_в_HTML5/03_headers/Заголовки.md",
-    "HTML/02_Элементы_в_HTML5/02_grouping_elements/Элементы группировки.md",
     "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/11_anchor/image.png",
     "HTML/02_Элементы_в_HTML5/07_lists/image.png",
