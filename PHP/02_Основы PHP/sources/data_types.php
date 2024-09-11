@@ -35,4 +35,14 @@ $text = "Модель \"Apple II\"";
 echo "$text<br />";
 $text = 'Модель "Apple II"';
 echo "$text<br />";
+
+$a = null;
+echo "a: $a<br />";
+$a = null;
+echo "a: $a";
+
+$id = 123;
+echo "<p>id = $id</p>";
+$id = "Hello, world!";
+echo "<p>id = $id</p>";
 ?>
