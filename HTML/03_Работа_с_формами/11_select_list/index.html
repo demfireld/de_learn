@@ -11,6 +11,7 @@
         <p>
             <label for="phone">Выберите модель:</label>
             <select name="phone" id="phone">
+                <option disabled selected>Выберите модель</option>
                 <option value="iphone 6s">iPhone 6S</option>
                 <option value="lumia 950">Lumia 950</option>
                 <option value="nexus 5x">Nexus 5X</option>
@@ -19,6 +20,30 @@
         </p>
         <p>
             <input type="submit" value="Отправить" />
+        </p>
+    </form>
+    <br />
+    <br />
+    <form>
+        <h2>Множественный выбор</h2>
+        <p>
+            <label for="phone">Выберите модель:</label>
+            <br />
+            <select multiple name="phone" id="phone">
+                <option value="iphone 6S">iPhone 6S</option>
+                <option value="lumia 950">Lumia 950</option>
+                <option value="nexus 5x">Nexus 5X</option>
+                <option value="galaxy s7">Galaxy S7</option>
+            </select>
+        </p>
+    </form>
+    <br />
+    <br />
+    <form>
+        <h2>Выпадающий список</h2>
+        <p>
+            <label for="phone">Выберите модель:</label>
+            <section id="phone"></section>
         </p>
     </form>
 </body>
