@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
+                "file": "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
+                "file": "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
+                "file": "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md"
+                "file": "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md"
               }
             }
           },
@@ -159,9 +159,12 @@
   },
   "active": "435fd4517c4fd40a",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/10_file_upload/index.html",
+    "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
+    "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
+    "HTML/03_Работа_с_формами/10_file_upload",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md",
     "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/index.html",
-    "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
     "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time",
     "HTML/03_Работа_с_формами/Без названия/Элементы для ввода даты и времени.md",
     "HTML/03_Работа_с_формами/09_/Элементы для ввода даты и времени.md",
@@ -177,7 +180,6 @@
     "HTML/03_Работа_с_формами/06_number_input_elements",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus/index.html",
-    "HTML/03_Работа_с_формами/05_tags_and_autofocus",
     "Untitled.canvas",
     "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
     "HTML/02_Элементы_в_HTML5/05_images/image_2.png",
@@ -200,7 +202,6 @@
     "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
-    "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
     "HTML/02_Элементы_в_HTML5/06_lists/image.png",
     "HTML/02_Элементы_в_HTML5/05_images/image.png",
     "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png",
