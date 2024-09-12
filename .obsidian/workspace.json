@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "302ce899d223204c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md"
+                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "cf08361f22303e68",
   "lastOpenFiles": [
+    "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "HTML/03_Работа_с_формами/11_select_list/Список select.md",
     "HTML/03_Работа_с_формами/11_select_list/index.html",
     "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
