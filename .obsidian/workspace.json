@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/12_textarea/Textarea.md",
-                "mode": "source",
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/12_textarea/Textarea.md",
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/12_textarea/Textarea.md",
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/12_textarea/Textarea.md"
+                "file": "HTML/03_Работа_с_формами/03_buttons/Кнопки.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "cf08361f22303e68",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
+    "HTML/03_Работа_с_формами/01_forms/Формы.md",
+    "HTML/03_Работа_с_формами/12_textarea/Textarea.md",
     "HTML/03_Работа_с_формами/12_textarea/index.html",
     "HTML/03_Работа_с_формами/11_select_list/Список select.md",
-    "HTML/03_Работа_с_формами/12_textarea/Textarea.md",
     "HTML/03_Работа_с_формами/12_textarea",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "HTML/03_Работа_с_формами/11_select_list/index.html",
@@ -177,13 +179,10 @@
     "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/index.html",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements",
-    "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input",
     "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
     "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
-    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
-    "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/02_Элементы_в_HTML5/08_definition_list/Список определений.md",
     "HTML/02_Элементы_в_HTML5/07_details/Элемент details.md",
     "HTML/02_Элементы_в_HTML5/06_lists/Списки.md",
