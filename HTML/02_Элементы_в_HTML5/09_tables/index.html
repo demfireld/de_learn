@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Таблицы</title>
     <style>
-        td {
-            width: 60px;
-            height: 60px;
-            border: solid 1px silver;
-            text-align: center;
-        }
+            td, th {
+                width: 60px;
+                height: 60px;
+                border: solid 1px silver;
+                text-align: center;
+            }
     </style>
 </head>
 <body>
@@ -86,26 +86,35 @@
         </tr>
     </table> -->
     <table>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>5</td>
-            <td>6</td>
-            <td>lol</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>7</td>
-            <td>8</td>
-            <td>lol</td>
-            <td>lol</td>
-        </tr>
-
-
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Apple</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Carrow</td>
+                <td>112</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Potato</td>
+                <td>98</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>Info by magazine</td>
+            </tr>
+        </tfoot>
     </table>
 </body>
 </html>
