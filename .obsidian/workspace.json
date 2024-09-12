@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md",
+                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "302ce899d223204c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md",
+                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md",
+                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/11_select_list/Список select.md"
+                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md"
               }
             }
           },
@@ -159,9 +158,9 @@
   },
   "active": "cf08361f22303e68",
   "lastOpenFiles": [
+    "HTML/03_Работа_с_формами/11_select_list/Список select.md",
     "HTML/03_Работа_с_формами/11_select_list/index.html",
     "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
-    "HTML/03_Работа_с_формами/11_select_list/Список select.md",
     "HTML/03_Работа_с_формами/11_select_list",
     "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md",
@@ -193,7 +192,6 @@
     "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
     "PHP/02_Основы PHP/sources/if_else.php",
     "PHP/02_Основы PHP/Типы данных.md",
-    "PHP/02_Основы PHP/sources/data_types.php",
     "PHP/02_Основы PHP/Переменные.md",
     "PHP/02_Основы PHP/Основы синтаксиса.md",
     "HTML/03_Работа_с_формами/UntitledUntitled.md",
