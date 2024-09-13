@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "302ce899d223204c",
@@ -159,6 +158,9 @@
   },
   "active": "cf08361f22303e68",
   "lastOpenFiles": [
+    "JS/Введение в JS/01_first_javascript_program/index.html",
+    "JS/Введение в JS/01_first_javascript_program",
+    "JS/Введение в JS",
     "JS",
     "JavaScript",
     "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
@@ -170,14 +172,11 @@
     "HTML/03_Работа_с_формами/14_",
     "HTML/03_Работа_с_формами/13_form_validation/index.html",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
-    "HTML/03_Работа_с_формами/13_form_validation",
     "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "HTML/03_Работа_с_формами/01_forms/Формы.md",
     "HTML/03_Работа_с_формами/12_textarea/Textarea.md",
-    "HTML/03_Работа_с_формами/12_textarea/index.html",
     "HTML/03_Работа_с_формами/11_select_list/Список select.md",
-    "HTML/03_Работа_с_формами/12_textarea",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
     "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
