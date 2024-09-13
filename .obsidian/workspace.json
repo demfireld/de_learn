@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
+                "file": "JS/Введение в JS/02_executing_javascript_code/Выполнение кода javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
+                "file": "JS/Введение в JS/02_executing_javascript_code/Выполнение кода javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
+                "file": "JS/Введение в JS/02_executing_javascript_code/Выполнение кода javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md"
+                "file": "JS/Введение в JS/02_executing_javascript_code/Выполнение кода javascript.md"
               }
             }
           },
@@ -158,19 +158,21 @@
   },
   "active": "cf08361f22303e68",
   "lastOpenFiles": [
+    "JS/Введение в JS/02_executing_javascript_code/index.html",
+    "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
+    "JS/Введение в JS/02_executing_javascript_code/Выполнение кода javascript.md",
+    "JS/Введение в JS/02_executing_javascript_code",
+    "JS/Введение в JS/02_executing javascript code",
+    "JS/Введение в JS/01_first_javascript_program/Первая программа на JavaScript.md",
     "JS/Введение в JS/01_first_javascript_program/index.html",
     "JS/Введение в JS/01_first_javascript_program",
     "JS/Введение в JS",
     "JS",
     "JavaScript",
     "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
-    "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
     "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Untitled",
     "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/index.html",
     "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements",
-    "HTML/03_Работа_с_формами/14_fieldset_and_legent",
-    "HTML/03_Работа_с_формами/14_",
-    "HTML/03_Работа_с_формами/13_form_validation/index.html",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
     "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
@@ -196,8 +198,6 @@
     "HTML/02_Элементы_в_HTML5/07_details/image.png",
     "HTML/02_Элементы_в_HTML5/01_elements_in_HTML5/Элементы в HTML5.md",
     "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
-    "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
-    "PHP/02_Основы PHP/Типы данных.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
