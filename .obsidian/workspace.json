@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
+                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
+                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
+                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md"
+                "file": "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md"
               }
             }
           },
@@ -159,9 +159,17 @@
   },
   "active": "cf08361f22303e68",
   "lastOpenFiles": [
+    "JS",
+    "JavaScript",
+    "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
+    "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
+    "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Untitled",
+    "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/index.html",
+    "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements",
+    "HTML/03_Работа_с_формами/14_fieldset_and_legent",
+    "HTML/03_Работа_с_формами/14_",
     "HTML/03_Работа_с_формами/13_form_validation/index.html",
     "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
-    "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
     "HTML/03_Работа_с_формами/13_form_validation",
     "HTML/03_Работа_с_формами/Untitled.md",
     "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
@@ -171,19 +179,12 @@
     "HTML/03_Работа_с_формами/11_select_list/Список select.md",
     "HTML/03_Работа_с_формами/12_textarea",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
-    "HTML/03_Работа_с_формами/11_select_list/index.html",
     "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
-    "HTML/03_Работа_с_формами/11_select_list",
     "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/Элементы для ввода даты и времени.md",
     "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/Элементы для ввода цвета, url, email, телефона.md",
-    "HTML/03_Работа_с_формами/10_file_upload/index.html",
-    "HTML/03_Работа_с_формами/10_file_upload",
-    "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time/index.html",
-    "HTML/03_Работа_с_формами/09_elements_for_entering_date_and_time",
     "2024-09-11.md",
     "Untitled.canvas",
     "HTML/03_Работа_с_формами/07_checkboxes_and_switches/Флажки и переключатели.md",
-    "HTML/03_Работа_с_формами/08_color_url_email_phone_number_input_elements/index.html",
     "HTML/03_Работа_с_формами/06_number_input_elements/Элементы для ввода чисел.md",
     "HTML/03_Работа_с_формами/05_tags_and_autofocus/Метки и автофокус.md",
     "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
@@ -198,7 +199,6 @@
     "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "PHP/02_Основы PHP/Конструкции if..else и тернарная операция.md",
     "PHP/02_Основы PHP/Типы данных.md",
-    "PHP/02_Основы PHP/Переменные.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
