@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Введение в JS/03_including_an_external_JS_file/Подключение внешнего файла JavaScript.md",
+                "file": "JS/Основы JS/01_variables_and_const/Переменные и константы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Введение в JS/03_including_an_external_JS_file/Подключение внешнего файла JavaScript.md",
+                "file": "JS/Основы JS/01_variables_and_const/Переменные и константы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Введение в JS/03_including_an_external_JS_file/Подключение внешнего файла JavaScript.md",
+                "file": "JS/Основы JS/01_variables_and_const/Переменные и константы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Введение в JS/03_including_an_external_JS_file/Подключение внешнего файла JavaScript.md"
+                "file": "JS/Основы JS/01_variables_and_const/Переменные и константы.md"
               }
             }
           },
@@ -158,20 +158,23 @@
   },
   "active": "3b45b2bccf070a08",
   "lastOpenFiles": [
+    "JS/Основы JS/01_variables_and_const/js",
+    "JS/Основы JS/01_variables_and_const/index.html",
+    "JS/Введение в JS/03_including_an_external_JS_file/Подключение внешнего файла JavaScript.md",
+    "JS/Основы JS/01_variables_and_const.md",
+    "JS/Основы JS/01_variables_and_const/Переменные и константы.md",
+    "JS/Основы JS/01_variables_and_const",
+    "JS/Основы JS/01_variables_and_const",
+    "JS/Основы JS",
     "images/Pasted image 20240914113702.png",
     "JS/Введение в JS/03_including_an_external_JS_file/js/main.js",
     "JS/Введение в JS/03_including_an_external_JS_file/js",
     "JS/Введение в JS/03_including_an_external_JS_file/main.js",
     "JS/Введение в JS/02_executing_javascript_code/Выполнение кода javascript.md",
-    "JS/Введение в JS/03_including_an_external_JS_file/Подключение внешнего файла JavaScript.md",
     "JS/Введение в JS/03_including_an_external_JS_file/index.html",
     "JS/Введение в JS/03_including_an_external_JS_file",
     "JS/Введение в JS/03_including_an_external_ОS_file/index.html",
-    "JS/Введение в JS/03_including_an_external_ОS_file",
-    "JS/Введение в JS/03_including_an_external_LS_file",
-    "JS/Введение в JS/03_including_an_extern",
     "HTML/03_Работа_с_формами/10_file_upload/Отправка файлов.md",
-    "JS/Введение в JS/02_executing_javascript_code/index.html",
     "HTML/03_Работа_с_формами/14_fieldset_and_legend_elements/Элементы fieldset и legend.md",
     "HTML/03_Работа_с_формами/13_form_validation/Валидация форм.md",
     "HTML/03_Работа_с_формами/12_textarea/Textarea.md",
@@ -194,16 +197,13 @@
     "PHP/02_Основы PHP/Основы синтаксиса.md",
     "PHP/01_Введение в PHP/01_First_PHP_site.md",
     "HTML/03_Работа_с_формами/04_text_fields/Текстовые поля.md",
-    "HTML/03_Работа_с_формами/03_buttons/Кнопки.md",
     "HTML/03_Работа_с_формами/03_buttons/image.png",
-    "HTML/03_Работа_с_формами/02_form_elements/Элементы форм.md",
     "PHP/iisstart.png",
     "wwwroot/iisstart.png",
     "HTML/02_Элементы_в_HTML5/11_figure_figcaption/image.png",
     "HTML/02_Элементы_в_HTML5/10_anchor/image.png",
     "HTML/02_Элементы_в_HTML5/06_lists/image.png",
     "HTML/02_Элементы_в_HTML5/05_images/image.png",
-    "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png",
-    "HTML/02_Элементы_в_HTML5/11_anchor/image.png"
+    "HTML/02_Элементы_в_HTML5/12_figure_figcaption/image.png"
   ]
 }
