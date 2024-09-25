@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
+                "file": "dd/dd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
+                "file": "dd/dd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
+                "file": "dd/dd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md"
+                "file": "dd/dd.md"
               }
+            }
+          },
+          {
+            "id": "3ad7e9144c61470a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,13 +151,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f882beb777bf97bb",
+  "active": "c68c187f126e109a",
   "lastOpenFiles": [
-    "PHP/02_Основы PHP/Типы данных.md",
     "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
+    "dd/dd.md",
+    "dd",
+    "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+    "PHP/02_Основы PHP/Типы данных.md",
     "PHP/02_Основы PHP/04 Операции в PHP.md",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_ КОД 09.02.07-2-2024-ПУ/~$ил_2_В3_КОД 09.02.07-2-2024-ПУ.docx",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_ КОД 09.02.07-2-2024-ПУ/~$ил_1_В3_КОД 09.02.07-2-2024-ПУ.docx",
@@ -161,7 +173,6 @@
     "HTML/04_Семантическая_структура_страницы/footer.html",
     "HTML/04_Семантическая_структура_страницы/header.html",
     "HTML/04_Семантическая_структура_страницы/nav.html",
-    "HTML/04_Семантическая_структура_страницы/section.html",
     "JS/Основы JS/06_conditional_operations/Условные операторы.md",
     "JS/Основы JS/05_conditional_expressions/Условные выражения.md",
     "JS/Основы JS/03_arithmetic_operations/Арифметические операции.md"
