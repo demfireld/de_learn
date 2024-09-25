@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dd/dd.md",
+                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dd/dd.md",
+                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dd/dd.md",
+                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dd/dd.md"
+                "file": "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "c68c187f126e109a",
   "lastOpenFiles": [
-    "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
     "dd/dd.md",
+    "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
     "dd",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "PHP/02_Основы PHP/Типы данных.md",
