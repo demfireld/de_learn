@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md"
+                "file": "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "c68c187f126e109a",
   "lastOpenFiles": [
+    "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
     "HTML/04_Семантическая_структура_страницы/Семантическая структура страницы.md",
     "dd/dd.md",
     "dd",
-    "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "PHP/02_Основы PHP/Типы данных.md",
     "PHP/02_Основы PHP/04 Операции в PHP.md",
     "Демо Экзамен/В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_КОД 09.02.07-2-2024-ПУ/Приложение к В3_ КОД 09.02.07-2-2024-ПУ/~$ил_2_В3_КОД 09.02.07-2-2024-ПУ.docx",
