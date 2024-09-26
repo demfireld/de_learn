@@ -155,8 +155,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c68c187f126e109a",
+  "active": "14b5bfe03563f921",
   "lastOpenFiles": [
+    "HTML/05_Основы_CSS3_селекторы/01_Введение_в_стили/style.css",
+    "HTML/05_Основы_CSS3_селекторы/01_Введение_в_стили/index.html",
+    "HTML/05_Основы_CSS3_селекторы/02",
+    "HTML/05_Основы_CSS3_селекторы/01_Введение_в_стили",
+    "HTML/05_Основы_CSS3_селекторы",
     "HTML/02_Элементы_в_HTML5/04_text_formating/Форматирование текста.md",
     "HTML/02_Элементы_в_HTML5/09_tables/Таблицы.md",
     "HTML/02_Элементы_в_HTML5/10_anchor/Ссылки.md",
@@ -171,10 +176,6 @@
     "PHP/02_Основы PHP/sources/operations.php",
     "PHP/02_Основы PHP/03 Типы данных.md",
     "HTML/04_Семантическая_структура_страницы/main.html",
-    "HTML/04_Семантическая_структура_страницы/aside.html",
-    "HTML/04_Семантическая_структура_страницы/footer.html",
-    "HTML/04_Семантическая_структура_страницы/header.html",
-    "HTML/04_Семантическая_структура_страницы/nav.html",
     "JS/Основы JS/06_conditional_operations/Условные операторы.md",
     "JS/Основы JS/05_conditional_expressions/Условные выражения.md",
     "JS/Основы JS/03_arithmetic_operations/Арифметические операции.md"
