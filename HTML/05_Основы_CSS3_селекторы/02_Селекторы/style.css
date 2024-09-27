@@ -1,4 +1,4 @@
-div {
+.redBlock, .blueBlock {
     width: 50px;
     height: 50px;
     margin: 10px;
@@ -6,6 +6,10 @@ div {
 .redBlock {
     background-color: red;
 }
-.blueBlcok {
+.blueBlock {
     background-color: blue;
+}
+
+div {
+    border: 1px solid #22;
 }
