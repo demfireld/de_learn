@@ -4,3 +4,6 @@
 #footer p {
     font-size: 13px;
 }
+li .redLink {
+    color: red;
+}
